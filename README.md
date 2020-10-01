@@ -41,3 +41,21 @@ __universal-sentence-encoder__ : It is trained on a variety of data sources and 
 
 __universal-sentences-encoder-large__ : Larger version of universal sentence encoder .The output is a 512 dimensional vector.
 
+
+#### Accuracy plot 
+
+![alt text](https://github.com/janmejaybhoi/Transfer_Learning_NLP_TensorFlow-HUB/blob/main/Images/accuracy_plot.PNG)
+
+#### Loss plot
+
+![alt text](https://github.com/janmejaybhoi/Transfer_Learning_NLP_TensorFlow-HUB/blob/main/Images/accuracy_plot.PNG)
+
+### TensorBoard Visualization
+
+#### Accuracy
+
+![alt text](https://github.com/janmejaybhoi/Transfer_Learning_NLP_TensorFlow-HUB/blob/main/Images/Accuracy_Tensorboard.png)
+
+#### Loss
+
+![alt text](https://github.com/janmejaybhoi/Transfer_Learning_NLP_TensorFlow-HUB/blob/main/Images/Loss_Tensorboard.png)
