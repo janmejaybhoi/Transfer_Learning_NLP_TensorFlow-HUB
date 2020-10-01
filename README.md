@@ -1,6 +1,4 @@
 # Transfer_Learning_NLP_TensorFlow-HUB
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
-
 Download the dataset from https://www.kaggle.com/c/quora-insincere-questions-classification/data
 
 ## TensorFlow Hub for Natural Language Processing
