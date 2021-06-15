@@ -1,5 +1,3 @@
-### We create a bunch of helpful functions.
-
 
 import tensorflow as tf
 
